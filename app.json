@@ -1,0 +1,16 @@
+
+{
+  "expo": {
+    "name": "HAYATI",
+    "slug": "hayati-ios",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "name": "HAYATI"
+    }
+  }
+}
